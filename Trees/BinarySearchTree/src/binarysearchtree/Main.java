@@ -31,7 +31,7 @@ public class Main {
 
         tree.traversePreOrder();
         System.out.println();
-        
+
         tree.traversePostOrder();
         System.out.println();
     }
